@@ -13,10 +13,11 @@
 	},
 	"require": {
 		"walnut/lib_actionbus": "dev-main",
-		"walnut/lib_datatype": "^0.0.1",
-		"walnut/lib_httpmapper": "^0.0.1",
-		"walnut/lib_modelmapper": "^0.0.2",
-		"walnut/lib_dbdatamodel": "^0.0.1"
+		"walnut/lib_datatype": ">=0.0.1",
+		"walnut/lib_httpmapper": ">=0.0.1",
+		"walnut/lib_modelmapper": ">=0.0.3",
+		"walnut/lib_dbdatamodel": ">=0.0.1",
+		"php": ">=8.0.0"
 	},
 	"require-dev": {
 		"vimeo/psalm": "^4.9.3",
